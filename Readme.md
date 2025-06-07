@@ -17,7 +17,7 @@ The folder contains the following files:
   - `kalman_filter.ipynb` — End-to-end implementation of the Kalman Filter for a single ball.
   - `Particle_Filter.ipynb` — End-to-end implementation of the Particle Filter for two balls.
 
-- 📄 **2 HTML Files (`.pdf`)**
+- 📄 **2 PDF Files (`.pdf`)**
   - `Kalman_Filter_Output.pdf` — Rendered output of the Kalman Filter simulation.
   - `Particle_Filter_Output.pdf` — Rendered output of the Particle Filter simulation.
 
